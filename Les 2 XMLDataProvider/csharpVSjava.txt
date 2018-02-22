@@ -1,0 +1,48 @@
+// === Java ===
+
+public class Person
+{
+  private string naam;
+
+  public Person()
+  { 
+    this.naam = "";
+  }
+
+  public void setNaam(string value)
+  {
+    this.naam = value;
+  }
+
+  public string getNaam()
+  {
+    return this.naam;
+  }
+}
+
+Person person = new Person();
+person.setNaam("jef");
+... person.getNaam();
+
+// === Csharp ===
+
+public class Person
+{
+  private string naam;
+
+  public Person()
+  { 
+    this.naam = "";
+  }
+
+  public string Naam
+  {
+    set { this.naam = value; }
+    get { return this.naam; }
+  }
+
+}
+
+Person person = new Person();
+person.Naam = "jef";
+... person.Naam;

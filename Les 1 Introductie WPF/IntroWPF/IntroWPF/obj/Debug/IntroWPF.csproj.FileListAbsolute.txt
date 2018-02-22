@@ -1,0 +1,15 @@
+\\Mac\OneDrive - Thomas More\WPF\Les 1 Introductie WPF\IntroWPF\IntroWPF\bin\Debug\IntroWPF.exe.config
+\\Mac\OneDrive - Thomas More\WPF\Les 1 Introductie WPF\IntroWPF\IntroWPF\bin\Debug\IntroWPF.exe
+\\Mac\OneDrive - Thomas More\WPF\Les 1 Introductie WPF\IntroWPF\IntroWPF\bin\Debug\IntroWPF.pdb
+\\Mac\OneDrive - Thomas More\WPF\Les 1 Introductie WPF\IntroWPF\IntroWPF\obj\Debug\IntroWPF.csprojResolveAssemblyReference.cache
+\\Mac\OneDrive - Thomas More\WPF\Les 1 Introductie WPF\IntroWPF\IntroWPF\obj\Debug\MainWindow.g.cs
+\\Mac\OneDrive - Thomas More\WPF\Les 1 Introductie WPF\IntroWPF\IntroWPF\obj\Debug\App.g.cs
+\\Mac\OneDrive - Thomas More\WPF\Les 1 Introductie WPF\IntroWPF\IntroWPF\obj\Debug\IntroWPF_MarkupCompile.cache
+\\Mac\OneDrive - Thomas More\WPF\Les 1 Introductie WPF\IntroWPF\IntroWPF\obj\Debug\IntroWPF_MarkupCompile.lref
+\\Mac\OneDrive - Thomas More\WPF\Les 1 Introductie WPF\IntroWPF\IntroWPF\obj\Debug\MainWindow.baml
+\\Mac\OneDrive - Thomas More\WPF\Les 1 Introductie WPF\IntroWPF\IntroWPF\obj\Debug\IntroWPF.g.resources
+\\Mac\OneDrive - Thomas More\WPF\Les 1 Introductie WPF\IntroWPF\IntroWPF\obj\Debug\IntroWPF.Properties.Resources.resources
+\\Mac\OneDrive - Thomas More\WPF\Les 1 Introductie WPF\IntroWPF\IntroWPF\obj\Debug\IntroWPF.csproj.GenerateResource.Cache
+\\Mac\OneDrive - Thomas More\WPF\Les 1 Introductie WPF\IntroWPF\IntroWPF\obj\Debug\IntroWPF.csproj.CoreCompileInputs.cache
+\\Mac\OneDrive - Thomas More\WPF\Les 1 Introductie WPF\IntroWPF\IntroWPF\obj\Debug\IntroWPF.exe
+\\Mac\OneDrive - Thomas More\WPF\Les 1 Introductie WPF\IntroWPF\IntroWPF\obj\Debug\IntroWPF.pdb

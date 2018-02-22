@@ -1,0 +1,26 @@
+﻿<Window x:Class="IntroWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:IntroWPF"
+        mc:Ignorable="d"
+        Title="StackPanel menu" Height="300" Width="300">
+    <Window.Resources>
+        <Style x:Key="buttonStyle" TargetType="Button">
+            <Setter Property="Margin" Value="10"/>
+            <Setter Property="Background" Value="CadetBlue"/>
+            <Setter Property="FontSize" Value="16"/>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <StackPanel>
+            <TextBlock Margin="30" FontSize="20" TextAlignment="Center">Overzicht Window lay-out in WPF</TextBlock>
+            <Button Style="{StaticResource buttonStyle}">Grid</Button>
+            <Button Style="{StaticResource buttonStyle}">DockPanel</Button>
+            <Button Style="{StaticResource buttonStyle}">WrapPanel</Button>
+            <Button Style="{StaticResource buttonStyle}">Canvas</Button>
+        </StackPanel>
+
+    </Grid>
+</Window>

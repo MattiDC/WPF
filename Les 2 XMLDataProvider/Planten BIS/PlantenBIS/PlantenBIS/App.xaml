@@ -1,0 +1,13 @@
+﻿<Application x:Class="PlantenBIS.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:PlantenBIS"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <SolidColorBrush x:Key="ToolBarKleur" Color="Green" />
+        <SolidColorBrush x:Key="RandKleur" Color="White" />
+        <SolidColorBrush x:Key="AchtergrondKleur" Color="Black" />
+        <SolidColorBrush x:Key="LetterKleur" Color="White" />
+        <XmlDataProvider x:Key="catalogusXML" Source="data/catalogus.xml" XPath="catalog"/>
+    </Application.Resources>
+</Application>

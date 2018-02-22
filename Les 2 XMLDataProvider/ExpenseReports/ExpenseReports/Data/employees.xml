@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+                    <Expenses xmlns="">
+                        <Person Name="Ellen Torfs" Department="IT">
+                            <Expense ExpenseType="Lunch" ExpenseAmount="50" />
+                            <Expense ExpenseType="Transportation" ExpenseAmount="50" />
+                        </Person>
+                        <Person Name="Koen Vangeel" Department="Engineering">
+                            <Expense ExpenseType="Document printing" ExpenseAmount="50"/>
+                            <Expense ExpenseType="Gift" ExpenseAmount="125" />
+                        </Person>
+                        <Person Name="Miranda Decabooter" Department="IT">
+                            <Expense ExpenseType="Magazine" ExpenseAmount="50"/>
+                            <Expense ExpenseType="Espresso machine" ExpenseAmount="600" />
+                            <Expense ExpenseType="Software" ExpenseAmount="500" />
+                        </Person>
+                    </Expenses>

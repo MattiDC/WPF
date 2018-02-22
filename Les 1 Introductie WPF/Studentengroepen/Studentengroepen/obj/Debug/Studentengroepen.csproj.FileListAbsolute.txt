@@ -1,0 +1,43 @@
+D:\School\2itf 17-18\Semester 2\WPF\H1\Studentengroepen\Studentengroepen\bin\Debug\Studentengroepen.exe.config
+D:\School\2itf 17-18\Semester 2\WPF\H1\Studentengroepen\Studentengroepen\bin\Debug\Bestanden\2ITF1.txt
+D:\School\2itf 17-18\Semester 2\WPF\H1\Studentengroepen\Studentengroepen\bin\Debug\Bestanden\2ITF2.txt
+D:\School\2itf 17-18\Semester 2\WPF\H1\Studentengroepen\Studentengroepen\bin\Debug\Bestanden\2ITF3.txt
+D:\School\2itf 17-18\Semester 2\WPF\H1\Studentengroepen\Studentengroepen\bin\Debug\Bestanden\2ITF4.txt
+D:\School\2itf 17-18\Semester 2\WPF\H1\Studentengroepen\Studentengroepen\bin\Debug\Bestanden\2ITF5.txt
+D:\School\2itf 17-18\Semester 2\WPF\H1\Studentengroepen\Studentengroepen\bin\Debug\Bestanden\2ITF6.txt
+D:\School\2itf 17-18\Semester 2\WPF\H1\Studentengroepen\Studentengroepen\bin\Debug\Studentengroepen.exe
+D:\School\2itf 17-18\Semester 2\WPF\H1\Studentengroepen\Studentengroepen\bin\Debug\Studentengroepen.pdb
+D:\School\2itf 17-18\Semester 2\WPF\H1\Studentengroepen\Studentengroepen\obj\Debug\Studentengroepen.csprojResolveAssemblyReference.cache
+D:\School\2itf 17-18\Semester 2\WPF\H1\Studentengroepen\Studentengroepen\obj\Debug\MainWindow.g.cs
+D:\School\2itf 17-18\Semester 2\WPF\H1\Studentengroepen\Studentengroepen\obj\Debug\App.g.cs
+D:\School\2itf 17-18\Semester 2\WPF\H1\Studentengroepen\Studentengroepen\obj\Debug\Studentengroepen_Content.g.cs
+D:\School\2itf 17-18\Semester 2\WPF\H1\Studentengroepen\Studentengroepen\obj\Debug\Studentengroepen_MarkupCompile.cache
+D:\School\2itf 17-18\Semester 2\WPF\H1\Studentengroepen\Studentengroepen\obj\Debug\Studentengroepen_MarkupCompile.lref
+D:\School\2itf 17-18\Semester 2\WPF\H1\Studentengroepen\Studentengroepen\obj\Debug\MainWindow.baml
+D:\School\2itf 17-18\Semester 2\WPF\H1\Studentengroepen\Studentengroepen\obj\Debug\Studentengroepen.g.resources
+D:\School\2itf 17-18\Semester 2\WPF\H1\Studentengroepen\Studentengroepen\obj\Debug\Studentengroepen.Properties.Resources.resources
+D:\School\2itf 17-18\Semester 2\WPF\H1\Studentengroepen\Studentengroepen\obj\Debug\Studentengroepen.csproj.GenerateResource.Cache
+D:\School\2itf 17-18\Semester 2\WPF\H1\Studentengroepen\Studentengroepen\obj\Debug\Studentengroepen.exe
+D:\School\2itf 17-18\Semester 2\WPF\H1\Studentengroepen\Studentengroepen\obj\Debug\Studentengroepen.pdb
+\\Mac\OneDrive - Thomas More\WPF\Les 1 Introductie WPF\Studentengroepen\Studentengroepen\bin\Debug\Bestanden\2ITF1.txt
+\\Mac\OneDrive - Thomas More\WPF\Les 1 Introductie WPF\Studentengroepen\Studentengroepen\bin\Debug\Bestanden\2ITF2.txt
+\\Mac\OneDrive - Thomas More\WPF\Les 1 Introductie WPF\Studentengroepen\Studentengroepen\bin\Debug\Bestanden\2ITF3.txt
+\\Mac\OneDrive - Thomas More\WPF\Les 1 Introductie WPF\Studentengroepen\Studentengroepen\bin\Debug\Bestanden\2ITF4.txt
+\\Mac\OneDrive - Thomas More\WPF\Les 1 Introductie WPF\Studentengroepen\Studentengroepen\bin\Debug\Bestanden\2ITF5.txt
+\\Mac\OneDrive - Thomas More\WPF\Les 1 Introductie WPF\Studentengroepen\Studentengroepen\bin\Debug\Bestanden\2ITF6.txt
+\\Mac\OneDrive - Thomas More\WPF\Les 1 Introductie WPF\Studentengroepen\Studentengroepen\bin\Debug\Studentengroepen.exe.config
+\\Mac\OneDrive - Thomas More\WPF\Les 1 Introductie WPF\Studentengroepen\Studentengroepen\bin\Debug\Studentengroepen.exe
+\\Mac\OneDrive - Thomas More\WPF\Les 1 Introductie WPF\Studentengroepen\Studentengroepen\bin\Debug\Studentengroepen.pdb
+\\Mac\OneDrive - Thomas More\WPF\Les 1 Introductie WPF\Studentengroepen\Studentengroepen\obj\Debug\Studentengroepen.csprojResolveAssemblyReference.cache
+\\Mac\OneDrive - Thomas More\WPF\Les 1 Introductie WPF\Studentengroepen\Studentengroepen\obj\Debug\MainWindow.g.cs
+\\Mac\OneDrive - Thomas More\WPF\Les 1 Introductie WPF\Studentengroepen\Studentengroepen\obj\Debug\App.g.cs
+\\Mac\OneDrive - Thomas More\WPF\Les 1 Introductie WPF\Studentengroepen\Studentengroepen\obj\Debug\Studentengroepen_Content.g.cs
+\\Mac\OneDrive - Thomas More\WPF\Les 1 Introductie WPF\Studentengroepen\Studentengroepen\obj\Debug\Studentengroepen_MarkupCompile.cache
+\\Mac\OneDrive - Thomas More\WPF\Les 1 Introductie WPF\Studentengroepen\Studentengroepen\obj\Debug\Studentengroepen_MarkupCompile.lref
+\\Mac\OneDrive - Thomas More\WPF\Les 1 Introductie WPF\Studentengroepen\Studentengroepen\obj\Debug\MainWindow.baml
+\\Mac\OneDrive - Thomas More\WPF\Les 1 Introductie WPF\Studentengroepen\Studentengroepen\obj\Debug\Studentengroepen.g.resources
+\\Mac\OneDrive - Thomas More\WPF\Les 1 Introductie WPF\Studentengroepen\Studentengroepen\obj\Debug\Studentengroepen.Properties.Resources.resources
+\\Mac\OneDrive - Thomas More\WPF\Les 1 Introductie WPF\Studentengroepen\Studentengroepen\obj\Debug\Studentengroepen.csproj.GenerateResource.Cache
+\\Mac\OneDrive - Thomas More\WPF\Les 1 Introductie WPF\Studentengroepen\Studentengroepen\obj\Debug\Studentengroepen.csproj.CoreCompileInputs.cache
+\\Mac\OneDrive - Thomas More\WPF\Les 1 Introductie WPF\Studentengroepen\Studentengroepen\obj\Debug\Studentengroepen.exe
+\\Mac\OneDrive - Thomas More\WPF\Les 1 Introductie WPF\Studentengroepen\Studentengroepen\obj\Debug\Studentengroepen.pdb

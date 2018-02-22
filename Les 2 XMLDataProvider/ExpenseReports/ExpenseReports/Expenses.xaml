@@ -1,0 +1,45 @@
+﻿<Page x:Class="ExpenseReports.Expenses"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ExpenseReports"
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+      Title="Expenses">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="50*" />
+            <ColumnDefinition Width="50*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition />
+        </Grid.RowDefinitions>
+
+        <!-- Titel rapport -->
+        <Label Grid.Column="0" Grid.ColumnSpan="2" VerticalAlignment="Center" FontFamily="Trebuchet MS" FontWeight="Bold" FontSize="18" Foreground="#0066cc">Expense Report For:</Label>
+
+        <!-- Employee -->
+        <Label Grid.Column="0" Grid.Row="1" Margin="0,0,0,5" FontWeight="Bold">Name:</Label>
+        <Label Grid.Column="1" Grid.Row="1" Margin="0,0,0,5" FontWeight="Bold" Content="{Binding XPath=@Name}"/>
+
+        <!-- Department -->
+        <Label  Grid.Column="0" Grid.Row="2" Margin="0,0,0,5" FontWeight="Bold">Department:</Label>
+        <Label Grid.Column="1" Grid.Row="2" Margin="0,0,0,5" FontWeight="Bold" Content="{Binding XPath=@Department}"/>
+
+        <!-- Expense type and Amount table -->
+        <DataGrid Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="3"  ItemsSource="{Binding XPath=Expense}" AutoGenerateColumns="False">
+
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ExpenseType" Binding="{Binding XPath=@ExpenseType}" Width="50*"/>
+                <DataGridTextColumn Header="Amount" Binding="{Binding XPath=@ExpenseAmount}" Width="50*" />
+            </DataGrid.Columns>
+        </DataGrid>
+
+    </Grid>
+
+</Page>
