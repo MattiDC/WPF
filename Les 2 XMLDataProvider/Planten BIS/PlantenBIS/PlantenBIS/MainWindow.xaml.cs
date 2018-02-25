@@ -33,5 +33,21 @@ namespace PlantenBIS
                 ((PageOverzicht)frame.Content).ListBoxKleur.DataContext = ComboboxKleuren.SelectedItem;
             }
         }
+
+        private void BackwardButton_Click(object sender, RoutedEventArgs e)
+        {
+            if(frame.NavigationService.CanGoBack)
+            {
+                frame.NavigationService.GoBack();
+            }
+        }
+
+        private void ForewardButton_Click(object sender, RoutedEventArgs e)
+        {
+            if (frame.NavigationService.CanGoForward)
+            {
+                frame.NavigationService.GoForward();
+            }
+        }
     }
 }

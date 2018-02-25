@@ -30,5 +30,11 @@ namespace PlantenBIS
             ListBoxKleur.DataContext = ((MainWindow)Window.GetWindow(this)).ComboboxKleuren.SelectedItem;
             
         }
+
+        private void ListBoxKleur_MouseDoubleClick(object sender, MouseButtonEventArgs e)
+        {
+            PageDetail detail = new PageDetail(ListBoxKleur.SelectedItem);
+            ((MainWindow)Window.GetWindow(this)).frame.Content = detail;
+        }
     }
 }

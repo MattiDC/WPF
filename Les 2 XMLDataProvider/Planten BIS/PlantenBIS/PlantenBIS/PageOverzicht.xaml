@@ -10,23 +10,19 @@
 
     <Page.Resources>
 
-        <Style x:Key="PlantenText" TargetType="TextBlock">
-            <Setter Property="Foreground" Value="{StaticResource LetterKleur}"/>
-            <Setter Property="Margin" Value="5"/>
-            <Setter Property="Padding" Value="5"/>
-        </Style>
-
         <DataTemplate x:Key="listboxTemplate">
             <StackPanel Orientation="Horizontal" Margin="7">
                 <TextBlock Name="PlantPicture" Visibility="Collapsed" 
                            Text="{Binding XPath=botanical,StringFormat=images/{0}.jpg}"/>
 
-                <Rectangle Width="75" Height="75" Stroke="White" RadiusX="5" RadiusY="5">
+                <Border Background="{StaticResource AchtergrondKleur}" BorderBrush="White" BorderThickness="2" CornerRadius="5">
+                    <Rectangle Width="75" Height="75" RadiusX="5" RadiusY="5" Margin="2">
                     <Rectangle.Fill>
                         <ImageBrush ImageSource="{Binding Text, ElementName=PlantPicture}"/>
                     </Rectangle.Fill>
-                </Rectangle>
-
+                    </Rectangle>
+                </Border>
+                
                 <StackPanel Orientation="Vertical">
                     <TextBlock Name="PlantName" Style="{StaticResource PlantenText}" Text="{Binding XPath=common}"/>
                     <TextBlock Name="PlanPrice" Style="{StaticResource PlantenText}" Text="{Binding XPath=price}"/>
@@ -38,7 +34,7 @@
 
     <Grid>
         <ListBox Name="ListBoxKleur" Background="Transparent" ItemsSource="{Binding XPath=plant}" 
-                 ItemTemplate="{StaticResource listboxTemplate}">
+                 ItemTemplate="{StaticResource listboxTemplate}" MouseDoubleClick="ListBoxKleur_MouseDoubleClick">
         </ListBox>
     </Grid>
 </Page>
