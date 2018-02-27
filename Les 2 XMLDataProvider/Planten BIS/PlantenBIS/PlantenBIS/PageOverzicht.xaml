@@ -35,6 +35,17 @@
     <Grid>
         <ListBox Name="ListBoxKleur" Background="Transparent" ItemsSource="{Binding XPath=plant}" 
                  ItemTemplate="{StaticResource listboxTemplate}" MouseDoubleClick="ListBoxKleur_MouseDoubleClick">
+            <ListBox.GroupStyle>
+                <GroupStyle>
+                    <GroupStyle.HeaderTemplate>
+                        <DataTemplate>
+                            <Border BorderBrush="White" BorderThickness="2" CornerRadius="5" Margin="7">
+                                <TextBlock Style="{StaticResource PlantenText}" Text="{Binding XPath=light}" FontWeight="Bold" FontSize="25" HorizontalAlignment="Center"/>
+                            </Border>
+                        </DataTemplate>
+                    </GroupStyle.HeaderTemplate>
+                </GroupStyle>
+            </ListBox.GroupStyle>
         </ListBox>
     </Grid>
 </Page>

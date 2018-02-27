@@ -1,0 +1,29 @@
+C:\@ThomasMore\2ITF WPF\Les 3 Databinding\OrdersStart\OrdersStart\bin\Debug\OrdersStart.exe.config
+C:\@ThomasMore\2ITF WPF\Les 3 Databinding\OrdersStart\OrdersStart\bin\Debug\OrdersStart.exe
+C:\@ThomasMore\2ITF WPF\Les 3 Databinding\OrdersStart\OrdersStart\bin\Debug\OrdersStart.pdb
+C:\@ThomasMore\2ITF WPF\Les 3 Databinding\OrdersStart\OrdersStart\obj\Debug\MainWindow.g.cs
+C:\@ThomasMore\2ITF WPF\Les 3 Databinding\OrdersStart\OrdersStart\obj\Debug\App.g.cs
+C:\@ThomasMore\2ITF WPF\Les 3 Databinding\OrdersStart\OrdersStart\obj\Debug\OrdersStart_MarkupCompile.cache
+C:\@ThomasMore\2ITF WPF\Les 3 Databinding\OrdersStart\OrdersStart\obj\Debug\OrdersStart_MarkupCompile.lref
+C:\@ThomasMore\2ITF WPF\Les 3 Databinding\OrdersStart\OrdersStart\obj\Debug\MainWindow.baml
+C:\@ThomasMore\2ITF WPF\Les 3 Databinding\OrdersStart\OrdersStart\obj\Debug\OrdersStart.g.resources
+C:\@ThomasMore\2ITF WPF\Les 3 Databinding\OrdersStart\OrdersStart\obj\Debug\OrdersStart.Properties.Resources.resources
+C:\@ThomasMore\2ITF WPF\Les 3 Databinding\OrdersStart\OrdersStart\obj\Debug\OrdersStart.csproj.GenerateResource.Cache
+C:\@ThomasMore\2ITF WPF\Les 3 Databinding\OrdersStart\OrdersStart\obj\Debug\OrdersStart.exe
+C:\@ThomasMore\2ITF WPF\Les 3 Databinding\OrdersStart\OrdersStart\obj\Debug\OrdersStart.pdb
+\\Mac\OneDrive - Thomas More\WPF\Les 3 Databinding\OrdersStart\OrdersStart\bin\Debug\OrdersStart.exe.config
+\\Mac\OneDrive - Thomas More\WPF\Les 3 Databinding\OrdersStart\OrdersStart\bin\Debug\OrdersStart.exe
+\\Mac\OneDrive - Thomas More\WPF\Les 3 Databinding\OrdersStart\OrdersStart\bin\Debug\OrdersStart.pdb
+\\Mac\OneDrive - Thomas More\WPF\Les 3 Databinding\OrdersStart\OrdersStart\obj\Debug\MainWindow.g.cs
+\\Mac\OneDrive - Thomas More\WPF\Les 3 Databinding\OrdersStart\OrdersStart\obj\Debug\App.g.cs
+\\Mac\OneDrive - Thomas More\WPF\Les 3 Databinding\OrdersStart\OrdersStart\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\Mac\OneDrive - Thomas More\WPF\Les 3 Databinding\OrdersStart\OrdersStart\obj\Debug\OrdersStart_MarkupCompile.cache
+\\Mac\OneDrive - Thomas More\WPF\Les 3 Databinding\OrdersStart\OrdersStart\obj\Debug\OrdersStart_MarkupCompile.lref
+\\Mac\OneDrive - Thomas More\WPF\Les 3 Databinding\OrdersStart\OrdersStart\obj\Debug\MainWindow.baml
+\\Mac\OneDrive - Thomas More\WPF\Les 3 Databinding\OrdersStart\OrdersStart\obj\Debug\OrdersStart.g.resources
+\\Mac\OneDrive - Thomas More\WPF\Les 3 Databinding\OrdersStart\OrdersStart\obj\Debug\OrdersStart.Properties.Resources.resources
+\\Mac\OneDrive - Thomas More\WPF\Les 3 Databinding\OrdersStart\OrdersStart\obj\Debug\OrdersStart.csproj.GenerateResource.Cache
+\\Mac\OneDrive - Thomas More\WPF\Les 3 Databinding\OrdersStart\OrdersStart\obj\Debug\OrdersStart.csproj.CoreCompileInputs.cache
+\\Mac\OneDrive - Thomas More\WPF\Les 3 Databinding\OrdersStart\OrdersStart\obj\Debug\OrdersStart.exe
+\\Mac\OneDrive - Thomas More\WPF\Les 3 Databinding\OrdersStart\OrdersStart\obj\Debug\OrdersStart.pdb
+\\Mac\OneDrive - Thomas More\WPF\Les 3 Databinding\OrdersStart\OrdersStart\obj\Debug\OrdersStart.csprojResolveAssemblyReference.cache

@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.ComponentModel;
 
 namespace PlantenBIS
 {
@@ -23,6 +24,9 @@ namespace PlantenBIS
         public PageOverzicht()
         {
             InitializeComponent();
+            ListBoxKleur.Items.GroupDescriptions.Add(new PropertyGroupDescription("light"));
+            ListBoxKleur.Items.SortDescriptions.Add(new SortDescription("light", ListSortDirection.Ascending));
+            ListBoxKleur.Items.SortDescriptions.Add(new SortDescription("common", ListSortDirection.Ascending));
         }
     
         private void Page_Loaded(object sender, RoutedEventArgs e)
