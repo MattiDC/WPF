@@ -1,0 +1,16 @@
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 3 Databinding\Voorbeeld databinding\Voorbeeld databinding\Voorbeeld databinding\bin\Debug\Voorbeeld databinding.exe.config
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 3 Databinding\Voorbeeld databinding\Voorbeeld databinding\Voorbeeld databinding\bin\Debug\Voorbeeld databinding.exe
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 3 Databinding\Voorbeeld databinding\Voorbeeld databinding\Voorbeeld databinding\bin\Debug\Voorbeeld databinding.pdb
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 3 Databinding\Voorbeeld databinding\Voorbeeld databinding\Voorbeeld databinding\obj\Debug\Voorbeeld databinding.csprojResolveAssemblyReference.cache
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 3 Databinding\Voorbeeld databinding\Voorbeeld databinding\Voorbeeld databinding\obj\Debug\MainWindow.g.cs
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 3 Databinding\Voorbeeld databinding\Voorbeeld databinding\Voorbeeld databinding\obj\Debug\App.g.cs
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 3 Databinding\Voorbeeld databinding\Voorbeeld databinding\Voorbeeld databinding\obj\Debug\Voorbeeld databinding_MarkupCompile.cache
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 3 Databinding\Voorbeeld databinding\Voorbeeld databinding\Voorbeeld databinding\obj\Debug\Voorbeeld databinding_MarkupCompile.lref
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 3 Databinding\Voorbeeld databinding\Voorbeeld databinding\Voorbeeld databinding\obj\Debug\MainWindow.baml
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 3 Databinding\Voorbeeld databinding\Voorbeeld databinding\Voorbeeld databinding\obj\Debug\Voorbeeld databinding.g.resources
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 3 Databinding\Voorbeeld databinding\Voorbeeld databinding\Voorbeeld databinding\obj\Debug\Voorbeeld_databinding.Properties.Resources.resources
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 3 Databinding\Voorbeeld databinding\Voorbeeld databinding\Voorbeeld databinding\obj\Debug\Voorbeeld databinding.csproj.GenerateResource.Cache
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 3 Databinding\Voorbeeld databinding\Voorbeeld databinding\Voorbeeld databinding\obj\Debug\Voorbeeld databinding.csproj.CoreCompileInputs.cache
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 3 Databinding\Voorbeeld databinding\Voorbeeld databinding\Voorbeeld databinding\obj\Debug\Voorbeeld databinding.exe
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 3 Databinding\Voorbeeld databinding\Voorbeeld databinding\Voorbeeld databinding\obj\Debug\Voorbeeld databinding.pdb
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 3 Databinding\Voorbeeld databinding\Voorbeeld databinding\Voorbeeld databinding\obj\Debug\GeneratedInternalTypeHelper.g.cs
