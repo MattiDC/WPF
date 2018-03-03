@@ -1,0 +1,17 @@
+D:\Data\WPF\Les 4 MVVM\WpfMVVMThird\WpfMVVMThird\bin\Debug\WpfMVVMThird.exe.config
+D:\Data\WPF\Les 4 MVVM\WpfMVVMThird\WpfMVVMThird\obj\Debug\View\MainWindow.g.cs
+D:\Data\WPF\Les 4 MVVM\WpfMVVMThird\WpfMVVMThird\obj\Debug\App.g.cs
+D:\Data\WPF\Les 4 MVVM\WpfMVVMThird\WpfMVVMThird\obj\Debug\WpfMVVMThird_MarkupCompile.cache
+D:\Data\WPF\Les 4 MVVM\WpfMVVMThird\WpfMVVMThird\obj\Debug\WpfMVVMThird_MarkupCompile.lref
+D:\Data\WPF\Les 4 MVVM\WpfMVVMThird\WpfMVVMThird\bin\Debug\WpfMVVMThird.exe
+D:\Data\WPF\Les 4 MVVM\WpfMVVMThird\WpfMVVMThird\bin\Debug\WpfMVVMThird.pdb
+D:\Data\WPF\Les 4 MVVM\WpfMVVMThird\WpfMVVMThird\obj\Debug\View\MainWindow.baml
+D:\Data\WPF\Les 4 MVVM\WpfMVVMThird\WpfMVVMThird\obj\Debug\WpfMVVMThird.g.resources
+D:\Data\WPF\Les 4 MVVM\WpfMVVMThird\WpfMVVMThird\obj\Debug\WpfMVVMThird.Properties.Resources.resources
+D:\Data\WPF\Les 4 MVVM\WpfMVVMThird\WpfMVVMThird\obj\Debug\WpfMVVMThird.csproj.GenerateResource.Cache
+D:\Data\WPF\Les 4 MVVM\WpfMVVMThird\WpfMVVMThird\obj\Debug\WpfMVVMThird.exe
+D:\Data\WPF\Les 4 MVVM\WpfMVVMThird\WpfMVVMThird\obj\Debug\WpfMVVMThird.pdb
+D:\Data\WPF\Les 4 MVVM\WpfMVVMThird\WpfMVVMThird\obj\Debug\WpfMVVMThird.csprojResolveAssemblyReference.cache
+D:\Data\WPF\Les 4 MVVM\WpfMVVMThird - oplossing\WpfMVVMThird\bin\Debug\WpfMVVMThird.exe.config
+D:\Data\WPF\Les 4 MVVM\WpfMVVMThird - oplossing\WpfMVVMThird\obj\Debug\WpfMVVMThird.exe
+D:\Data\WPF\Les 4 MVVM\WpfMVVMThird - oplossing\WpfMVVMThird\obj\Debug\WpfMVVMThird.pdb

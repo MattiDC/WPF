@@ -1,0 +1,16 @@
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 4 MVVM\WpfMVVMFirst\WpfMVVMFirst\bin\Debug\WpfMVVMFirst.exe.config
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 4 MVVM\WpfMVVMFirst\WpfMVVMFirst\bin\Debug\WpfMVVMFirst.exe
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 4 MVVM\WpfMVVMFirst\WpfMVVMFirst\bin\Debug\WpfMVVMFirst.pdb
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 4 MVVM\WpfMVVMFirst\WpfMVVMFirst\obj\Debug\WpfMVVMFirst.csprojResolveAssemblyReference.cache
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 4 MVVM\WpfMVVMFirst\WpfMVVMFirst\obj\Debug\View\MainWindow.g.cs
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 4 MVVM\WpfMVVMFirst\WpfMVVMFirst\obj\Debug\App.g.cs
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 4 MVVM\WpfMVVMFirst\WpfMVVMFirst\obj\Debug\WpfMVVMFirst_MarkupCompile.cache
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 4 MVVM\WpfMVVMFirst\WpfMVVMFirst\obj\Debug\WpfMVVMFirst_MarkupCompile.lref
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 4 MVVM\WpfMVVMFirst\WpfMVVMFirst\obj\Debug\View\MainWindow.baml
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 4 MVVM\WpfMVVMFirst\WpfMVVMFirst\obj\Debug\WpfMVVMFirst.g.resources
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 4 MVVM\WpfMVVMFirst\WpfMVVMFirst\obj\Debug\WpfMVVMFirst.Properties.Resources.resources
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 4 MVVM\WpfMVVMFirst\WpfMVVMFirst\obj\Debug\WpfMVVMFirst.csproj.GenerateResource.Cache
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 4 MVVM\WpfMVVMFirst\WpfMVVMFirst\obj\Debug\WpfMVVMFirst.csproj.CoreCompileInputs.cache
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 4 MVVM\WpfMVVMFirst\WpfMVVMFirst\obj\Debug\WpfMVVMFirst.exe
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 4 MVVM\WpfMVVMFirst\WpfMVVMFirst\obj\Debug\WpfMVVMFirst.pdb
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 4 MVVM\WpfMVVMFirst\WpfMVVMFirst\obj\Debug\GeneratedInternalTypeHelper.g.cs

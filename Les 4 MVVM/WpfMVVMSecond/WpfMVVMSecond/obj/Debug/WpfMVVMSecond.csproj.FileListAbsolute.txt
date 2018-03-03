@@ -1,0 +1,15 @@
+D:\Data\WPF\Les 4 MVVM\WpfMVVMSecond\WpfMVVMSecond\bin\Debug\WpfMVVMSecond.exe.config
+D:\Data\WPF\Les 4 MVVM\WpfMVVMSecond\WpfMVVMSecond\bin\Debug\WpfMVVMSecond.exe
+D:\Data\WPF\Les 4 MVVM\WpfMVVMSecond\WpfMVVMSecond\bin\Debug\WpfMVVMSecond.pdb
+D:\Data\WPF\Les 4 MVVM\WpfMVVMSecond\WpfMVVMSecond\obj\Debug\View\MainWindow.g.cs
+D:\Data\WPF\Les 4 MVVM\WpfMVVMSecond\WpfMVVMSecond\obj\Debug\App.g.cs
+D:\Data\WPF\Les 4 MVVM\WpfMVVMSecond\WpfMVVMSecond\obj\Debug\WpfMVVMSecond_MarkupCompile.cache
+D:\Data\WPF\Les 4 MVVM\WpfMVVMSecond\WpfMVVMSecond\obj\Debug\WpfMVVMSecond_MarkupCompile.lref
+D:\Data\WPF\Les 4 MVVM\WpfMVVMSecond\WpfMVVMSecond\obj\Debug\View\MainWindow.baml
+D:\Data\WPF\Les 4 MVVM\WpfMVVMSecond\WpfMVVMSecond\obj\Debug\WpfMVVMSecond.g.resources
+D:\Data\WPF\Les 4 MVVM\WpfMVVMSecond\WpfMVVMSecond\obj\Debug\WpfMVVMSecond.Properties.Resources.resources
+D:\Data\WPF\Les 4 MVVM\WpfMVVMSecond\WpfMVVMSecond\obj\Debug\WpfMVVMSecond.csproj.GenerateResource.Cache
+D:\Data\WPF\Les 4 MVVM\WpfMVVMSecond\WpfMVVMSecond\obj\Debug\WpfMVVMSecond.exe
+D:\Data\WPF\Les 4 MVVM\WpfMVVMSecond\WpfMVVMSecond\obj\Debug\WpfMVVMSecond.pdb
+D:\Data\WPF\Les 4 MVVM\WpfMVVMSecond\WpfMVVMSecond\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Data\WPF\Les 4 MVVM\WpfMVVMSecond\WpfMVVMSecond\obj\Debug\WpfMVVMSecond.csprojResolveAssemblyReference.cache

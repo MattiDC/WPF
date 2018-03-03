@@ -1,0 +1,32 @@
+<Window x:Class="Boeken.View.MainWindow"
+	    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+		xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+		xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+		xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+		xmlns:local="clr-namespace:Boeken.View"
+		mc:Ignorable="d"
+		Title="Mijn bibliotheek" Height="600" Width="700">
+
+    <Window.Resources>
+        
+    </Window.Resources>
+
+    <Grid Margin="10" >
+        
+        <DataGrid AutoGenerateColumns="False"  >
+
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Titel"  />
+                <DataGridTextColumn Header="Auteur"  />
+            </DataGrid.Columns>
+
+            <DataGrid.RowDetailsTemplate>
+                <DataTemplate>
+                    
+                </DataTemplate>
+            </DataGrid.RowDetailsTemplate>
+
+        </DataGrid>
+        
+    </Grid>
+</Window>

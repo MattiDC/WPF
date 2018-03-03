@@ -1,0 +1,66 @@
+﻿<Window x:Class="WpfMVVMFirst.View.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfMVVMFirst.View"
+        xmlns:viewmodel="clr-namespace:WpfMVVMFirst.ViewModel"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="300" Width="400">
+
+    <Window.Resources>
+        <viewmodel:CustomerViewModel x:Key="CustomerViewModel"/>
+
+        <Style TargetType="TextBlock">
+            <Setter Property="Margin" Value="10,12,0,0" />
+            <Setter Property="HorizontalAlignment" Value="Left" />
+            <Setter Property="FontSize" Value="16" />
+        </Style>
+
+        <Style TargetType="TextBox">
+            <Setter Property="Margin" Value="10,12,0,0" />
+            <Setter Property="HorizontalAlignment" Value="Left" />
+            <Setter Property="FontSize" Value="16" />
+            <Setter Property="Height" Value="25" />
+            <Setter Property="Width" Value="200" />
+        </Style>
+
+        <Style TargetType="Button">
+            <Setter Property="Margin" Value="10,12,0,0" />
+            <Setter Property="HorizontalAlignment" Value="Left" />
+            <Setter Property="FontSize" Value="16" />
+            <Setter Property="Height" Value="25" />
+            <Setter Property="Width" Value="200" />
+        </Style>
+    </Window.Resources>
+
+    <Grid VerticalAlignment="Center" HorizontalAlignment="Center"
+          DataContext="{StaticResource CustomerViewModel}">
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <TextBlock Text="Name:" />
+        <TextBlock Grid.Row="1" Text="Amount:" />
+        <TextBlock Grid.Row="2" Text="Country:" />
+        <TextBlock Grid.Row="3" Text="Tax:" />
+
+        <TextBox Grid.Column="1" Text="{Binding Customer.Name}" />
+        <TextBox Grid.Column="1" Grid.Row="1" Text="{Binding Customer.Amount}" />
+        <TextBox Grid.Column="1" Grid.Row="2" Text="{Binding Customer.Country}" />
+        <TextBlock Grid.Column="1" Grid.Row="3" Text="{Binding Customer.Tax}" />
+
+        <Button Grid.Column="1" Grid.Row="4" Content="Calculate Tax" Command="{Binding CalculateTaxCommand}"
+                />
+
+    </Grid>
+</Window>
