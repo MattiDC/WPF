@@ -4,6 +4,7 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfMVVMThird.View"
+        xmlns:viewmodel="clr-namespace:WpfMVVMThird.ViewModel"
         mc:Ignorable="d"
         Title="MainWindow" Height="400" Width="600">
 
@@ -13,10 +14,12 @@
             <Setter Property="Height" Value="25" />
             <Setter Property="Width" Value="200" />
         </Style>
-        
+
+        <viewmodel:StudentEnKlasViewModel x:Key="StudentEnKlasViewModel"/>
+
     </Window.Resources>
 
-    <Grid HorizontalAlignment="Center" VerticalAlignment="Center" >
+    <Grid HorizontalAlignment="Center" VerticalAlignment="Center" DataContext="{StaticResource StudentEnKlasViewModel}" >
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto" />
             <RowDefinition Height="*" />
@@ -25,23 +28,27 @@
             <ColumnDefinition Width="Auto" />
             <ColumnDefinition Width="*" />
         </Grid.ColumnDefinitions>
-        
-        <DataGrid  />
+
+        <DataGrid ItemsSource="{Binding Studenten}" SelectedItem="{Binding SelectedItem}" />
 
         <StackPanel Grid.Row="1" Grid.Column="0"
                     Orientation="Vertical"
                     Margin="0,40,0,0">
             <Button Content="Verwijderen"
-                    Command="" />
-            
+                    Command="{Binding DeleteStudentCommand}" />
+
             <Button Content="Toevoegen"
-                    Command="" />
+                    Command="{Binding AddStudentCommand}" />
         </StackPanel>
-        
+
         <StackPanel Grid.Row="0" Grid.Column="1"
                     Margin="30">
-            <TextBox Text="" Width="200" />
-            <ComboBox Width="200">
+            <TextBox Text="{Binding SelectedItem.Naam}" Width="200" />
+            <ComboBox Width="200"
+             ItemsSource="{Binding Klassen}"
+             SelectedValuePath="Id" 
+             DisplayMemberPath="Naam"
+             SelectedValue="{Binding Path=SelectedItem.KlasId}">
             </ComboBox>
         </StackPanel>
 
@@ -49,7 +56,7 @@
                 Margin="10,40,0,0"
                 VerticalAlignment="Top"
                 Content="Wijzigen" />
-        
+
     </Grid>
 
 </Window>

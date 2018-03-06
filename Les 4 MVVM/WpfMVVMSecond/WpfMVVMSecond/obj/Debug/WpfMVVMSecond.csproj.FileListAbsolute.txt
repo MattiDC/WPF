@@ -13,3 +13,19 @@ D:\Data\WPF\Les 4 MVVM\WpfMVVMSecond\WpfMVVMSecond\obj\Debug\WpfMVVMSecond.exe
 D:\Data\WPF\Les 4 MVVM\WpfMVVMSecond\WpfMVVMSecond\obj\Debug\WpfMVVMSecond.pdb
 D:\Data\WPF\Les 4 MVVM\WpfMVVMSecond\WpfMVVMSecond\obj\Debug\GeneratedInternalTypeHelper.g.cs
 D:\Data\WPF\Les 4 MVVM\WpfMVVMSecond\WpfMVVMSecond\obj\Debug\WpfMVVMSecond.csprojResolveAssemblyReference.cache
+\\Mac\OneDrive - Thomas More\WPF\Les 4 MVVM\WpfMVVMSecond\WpfMVVMSecond\obj\Debug\WpfMVVMSecond.csprojResolveAssemblyReference.cache
+\\Mac\OneDrive - Thomas More\WPF\Les 4 MVVM\WpfMVVMSecond\WpfMVVMSecond\obj\Debug\View\MainWindow.g.cs
+\\Mac\OneDrive - Thomas More\WPF\Les 4 MVVM\WpfMVVMSecond\WpfMVVMSecond\obj\Debug\App.g.cs
+\\Mac\OneDrive - Thomas More\WPF\Les 4 MVVM\WpfMVVMSecond\WpfMVVMSecond\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\Mac\OneDrive - Thomas More\WPF\Les 4 MVVM\WpfMVVMSecond\WpfMVVMSecond\obj\Debug\WpfMVVMSecond_MarkupCompile.cache
+\\Mac\OneDrive - Thomas More\WPF\Les 4 MVVM\WpfMVVMSecond\WpfMVVMSecond\obj\Debug\WpfMVVMSecond_MarkupCompile.lref
+\\Mac\OneDrive - Thomas More\WPF\Les 4 MVVM\WpfMVVMSecond\WpfMVVMSecond\obj\Debug\WpfMVVMSecond.exe
+\\Mac\OneDrive - Thomas More\WPF\Les 4 MVVM\WpfMVVMSecond\WpfMVVMSecond\obj\Debug\WpfMVVMSecond.pdb
+\\Mac\OneDrive - Thomas More\WPF\Les 4 MVVM\WpfMVVMSecond\WpfMVVMSecond\bin\Debug\WpfMVVMSecond.exe.config
+\\Mac\OneDrive - Thomas More\WPF\Les 4 MVVM\WpfMVVMSecond\WpfMVVMSecond\bin\Debug\WpfMVVMSecond.exe
+\\Mac\OneDrive - Thomas More\WPF\Les 4 MVVM\WpfMVVMSecond\WpfMVVMSecond\bin\Debug\WpfMVVMSecond.pdb
+\\Mac\OneDrive - Thomas More\WPF\Les 4 MVVM\WpfMVVMSecond\WpfMVVMSecond\obj\Debug\View\MainWindow.baml
+\\Mac\OneDrive - Thomas More\WPF\Les 4 MVVM\WpfMVVMSecond\WpfMVVMSecond\obj\Debug\WpfMVVMSecond.g.resources
+\\Mac\OneDrive - Thomas More\WPF\Les 4 MVVM\WpfMVVMSecond\WpfMVVMSecond\obj\Debug\WpfMVVMSecond.Properties.Resources.resources
+\\Mac\OneDrive - Thomas More\WPF\Les 4 MVVM\WpfMVVMSecond\WpfMVVMSecond\obj\Debug\WpfMVVMSecond.csproj.GenerateResource.Cache
+\\Mac\OneDrive - Thomas More\WPF\Les 4 MVVM\WpfMVVMSecond\WpfMVVMSecond\obj\Debug\WpfMVVMSecond.csproj.CoreCompileInputs.cache

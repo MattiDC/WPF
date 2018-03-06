@@ -4,21 +4,22 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfMVVMSecond.View"
+        xmlns:viewmodel="clr-namespace:WpfMVVMSecond.ViewModel"
         mc:Ignorable="d"
         Title="MainWindow" Height="300" Width="300">
 
     <Window.Resources>
-        
+        <viewmodel:StudentenViewModel x:Key="StudentenViewModel"/>
     </Window.Resources>
 
-    <DockPanel >
+    <DockPanel DataContext="{StaticResource StudentenViewModel}">
         <Button Content="Verwijderen" DockPanel.Dock="Bottom"
-                Command="" />
+                Command="{Binding DeleteStudentCommand}" />
         <Button Content="Toevoegen" DockPanel.Dock="Bottom"
-                Command="" />
+                Command="{Binding AddStudentCommand}" />
 
         <DataGrid HorizontalAlignment="Center" VerticalAlignment="Top"
-                  Margin="30" />
+                  Margin="30"  SelectedItem="{Binding SelectedItem}" ItemsSource="{Binding Studenten}"/>
 
     </DockPanel>
 

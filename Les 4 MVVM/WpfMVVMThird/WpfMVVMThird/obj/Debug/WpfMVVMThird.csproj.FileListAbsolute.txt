@@ -15,3 +15,19 @@ D:\Data\WPF\Les 4 MVVM\WpfMVVMThird\WpfMVVMThird\obj\Debug\WpfMVVMThird.csprojRe
 D:\Data\WPF\Les 4 MVVM\WpfMVVMThird - oplossing\WpfMVVMThird\bin\Debug\WpfMVVMThird.exe.config
 D:\Data\WPF\Les 4 MVVM\WpfMVVMThird - oplossing\WpfMVVMThird\obj\Debug\WpfMVVMThird.exe
 D:\Data\WPF\Les 4 MVVM\WpfMVVMThird - oplossing\WpfMVVMThird\obj\Debug\WpfMVVMThird.pdb
+\\Mac\OneDrive - Thomas More\WPF\Les 4 MVVM\WpfMVVMThird\WpfMVVMThird\bin\Debug\WpfMVVMThird.exe.config
+\\Mac\OneDrive - Thomas More\WPF\Les 4 MVVM\WpfMVVMThird\WpfMVVMThird\bin\Debug\WpfMVVMThird.exe
+\\Mac\OneDrive - Thomas More\WPF\Les 4 MVVM\WpfMVVMThird\WpfMVVMThird\bin\Debug\WpfMVVMThird.pdb
+\\Mac\OneDrive - Thomas More\WPF\Les 4 MVVM\WpfMVVMThird\WpfMVVMThird\obj\Debug\WpfMVVMThird.csprojResolveAssemblyReference.cache
+\\Mac\OneDrive - Thomas More\WPF\Les 4 MVVM\WpfMVVMThird\WpfMVVMThird\obj\Debug\View\MainWindow.g.cs
+\\Mac\OneDrive - Thomas More\WPF\Les 4 MVVM\WpfMVVMThird\WpfMVVMThird\obj\Debug\App.g.cs
+\\Mac\OneDrive - Thomas More\WPF\Les 4 MVVM\WpfMVVMThird\WpfMVVMThird\obj\Debug\WpfMVVMThird_MarkupCompile.cache
+\\Mac\OneDrive - Thomas More\WPF\Les 4 MVVM\WpfMVVMThird\WpfMVVMThird\obj\Debug\WpfMVVMThird_MarkupCompile.lref
+\\Mac\OneDrive - Thomas More\WPF\Les 4 MVVM\WpfMVVMThird\WpfMVVMThird\obj\Debug\View\MainWindow.baml
+\\Mac\OneDrive - Thomas More\WPF\Les 4 MVVM\WpfMVVMThird\WpfMVVMThird\obj\Debug\WpfMVVMThird.g.resources
+\\Mac\OneDrive - Thomas More\WPF\Les 4 MVVM\WpfMVVMThird\WpfMVVMThird\obj\Debug\WpfMVVMThird.Properties.Resources.resources
+\\Mac\OneDrive - Thomas More\WPF\Les 4 MVVM\WpfMVVMThird\WpfMVVMThird\obj\Debug\WpfMVVMThird.csproj.GenerateResource.Cache
+\\Mac\OneDrive - Thomas More\WPF\Les 4 MVVM\WpfMVVMThird\WpfMVVMThird\obj\Debug\WpfMVVMThird.csproj.CoreCompileInputs.cache
+\\Mac\OneDrive - Thomas More\WPF\Les 4 MVVM\WpfMVVMThird\WpfMVVMThird\obj\Debug\WpfMVVMThird.exe
+\\Mac\OneDrive - Thomas More\WPF\Les 4 MVVM\WpfMVVMThird\WpfMVVMThird\obj\Debug\WpfMVVMThird.pdb
+\\Mac\OneDrive - Thomas More\WPF\Les 4 MVVM\WpfMVVMThird\WpfMVVMThird\obj\Debug\GeneratedInternalTypeHelper.g.cs
