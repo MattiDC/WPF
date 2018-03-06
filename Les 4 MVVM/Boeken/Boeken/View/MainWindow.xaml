@@ -1,0 +1,53 @@
+<Window x:Class="Boeken.View.MainWindow"
+	    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+		xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+		xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+		xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+		xmlns:local="clr-namespace:Boeken.View"
+        xmlns:viewmodel="clr-namespace:Boeken.ViewModel"
+        mc:Ignorable="d"
+		Title="Mijn bibliotheek" Height="600" Width="700">
+
+    <Window.Resources>
+        <viewmodel:BoekenViewModel x:Key="BoekenViewModel" />
+    </Window.Resources>
+
+    <Grid DataContext="{StaticResource BoekenViewModel}">
+
+        <DataGrid AutoGenerateColumns="False" ItemsSource="{Binding Boeken}">
+
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Titel" Binding="{Binding Titel}" />
+                <DataGridTextColumn Header="Auteur" Binding="{Binding Auteur}" />
+            </DataGrid.Columns>
+
+            <DataGrid.RowDetailsTemplate>
+                <DataTemplate>
+
+                        <!--<StackPanel Orientation="Vertical" Grid.Column="0" Grid.RowSpan="3">
+                            <TextBlock Name="FotoBoek" Visibility="Collapsed" Text="{Binding Foto}"/>
+                            <Image Width="155" Height="226" Source="{Binding Text, ElementName=FotoBoek}"/>
+                        </StackPanel>-->
+                    <StackPanel Orientation="Vertical">
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="Auteur:" FontWeight="Bold"/>
+                            <TextBlock Text="{Binding Auteur}"/>
+                        </StackPanel>
+
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="titel:" FontWeight="Bold"/>
+                            <TextBlock Text="{Binding Titel}"/>
+                        </StackPanel>
+
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="Samenvatting:" FontWeight="Bold"/>
+                            <TextBlock Text="{Binding Samenvatting}" TextWrapping="Wrap"/>
+                        </StackPanel>
+                    </StackPanel>
+                </DataTemplate>
+            </DataGrid.RowDetailsTemplate>
+
+        </DataGrid>
+
+    </Grid>
+</Window>

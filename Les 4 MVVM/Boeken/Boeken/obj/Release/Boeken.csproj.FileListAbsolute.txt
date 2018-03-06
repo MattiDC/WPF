@@ -1,0 +1,15 @@
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 4 MVVM\Boeken\Boeken\bin\Release\Boeken.exe.config
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 4 MVVM\Boeken\Boeken\bin\Release\Boeken.exe
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 4 MVVM\Boeken\Boeken\bin\Release\Boeken.pdb
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 4 MVVM\Boeken\Boeken\obj\Release\View\MainWindow.g.cs
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 4 MVVM\Boeken\Boeken\obj\Release\App.g.cs
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 4 MVVM\Boeken\Boeken\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 4 MVVM\Boeken\Boeken\obj\Release\Boeken_MarkupCompile.cache
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 4 MVVM\Boeken\Boeken\obj\Release\Boeken_MarkupCompile.lref
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 4 MVVM\Boeken\Boeken\obj\Release\View\MainWindow.baml
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 4 MVVM\Boeken\Boeken\obj\Release\Boeken.g.resources
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 4 MVVM\Boeken\Boeken\obj\Release\Boeken.Properties.Resources.resources
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 4 MVVM\Boeken\Boeken\obj\Release\Boeken.csproj.GenerateResource.Cache
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 4 MVVM\Boeken\Boeken\obj\Release\Boeken.csproj.CoreCompileInputs.cache
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 4 MVVM\Boeken\Boeken\obj\Release\Boeken.exe
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 4 MVVM\Boeken\Boeken\obj\Release\Boeken.pdb
