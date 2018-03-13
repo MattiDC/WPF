@@ -1,0 +1,86 @@
+C:\Thomas More\WPF\Les 5 Dapper\BeheerContacten\BeheerContacten\bin\Debug\BeheerContacten.exe.config
+C:\Thomas More\WPF\Les 5 Dapper\BeheerContacten\BeheerContacten\bin\Debug\BeheerContacten.exe
+C:\Thomas More\WPF\Les 5 Dapper\BeheerContacten\BeheerContacten\bin\Debug\BeheerContacten.pdb
+C:\Thomas More\WPF\Les 5 Dapper\BeheerContacten\BeheerContacten\bin\Debug\Dapper.dll
+C:\Thomas More\WPF\Les 5 Dapper\BeheerContacten\BeheerContacten\bin\Debug\Dapper.pdb
+C:\Thomas More\WPF\Les 5 Dapper\BeheerContacten\BeheerContacten\bin\Debug\Dapper.xml
+C:\Thomas More\WPF\Les 5 Dapper\BeheerContacten\BeheerContacten\obj\Debug\View\MainWindow.g.cs
+C:\Thomas More\WPF\Les 5 Dapper\BeheerContacten\BeheerContacten\obj\Debug\App.g.cs
+C:\Thomas More\WPF\Les 5 Dapper\BeheerContacten\BeheerContacten\obj\Debug\BeheerContacten_MarkupCompile.cache
+C:\Thomas More\WPF\Les 5 Dapper\BeheerContacten\BeheerContacten\obj\Debug\BeheerContacten_MarkupCompile.lref
+C:\Thomas More\WPF\Les 5 Dapper\BeheerContacten\BeheerContacten\obj\Debug\View\MainWindow.baml
+C:\Thomas More\WPF\Les 5 Dapper\BeheerContacten\BeheerContacten\obj\Debug\BeheerContacten.g.resources
+C:\Thomas More\WPF\Les 5 Dapper\BeheerContacten\BeheerContacten\obj\Debug\BeheerContacten.Properties.Resources.resources
+C:\Thomas More\WPF\Les 5 Dapper\BeheerContacten\BeheerContacten\obj\Debug\BeheerContacten.csproj.GenerateResource.Cache
+C:\Thomas More\WPF\Les 5 Dapper\BeheerContacten\BeheerContacten\obj\Debug\BeheerContacten.exe
+C:\Thomas More\WPF\Les 5 Dapper\BeheerContacten\BeheerContacten\obj\Debug\BeheerContacten.pdb
+C:\Thomas More\WPF\Les 5 Dapper\BeheerContacten\BeheerContacten\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Thomas More\WPF\Les 5 Dapper\BeheerContacten\BeheerContacten\obj\Debug\BeheerContacten.csprojResolveAssemblyReference.cache
+C:\@ThomasMore\2ITF WPF\Les 5 Dapper\BeheerContacten\BeheerContacten\bin\Debug\BeheerContacten.exe.config
+C:\@ThomasMore\2ITF WPF\Les 5 Dapper\BeheerContacten\BeheerContacten\obj\Debug\BeheerContacten.exe
+C:\@ThomasMore\2ITF WPF\Les 5 Dapper\BeheerContacten\BeheerContacten\obj\Debug\BeheerContacten.pdb
+C:\@ThomasMore\2ITF WPF\Les 5 Dapper\BeheerContacten\BeheerContacten\bin\Debug\BeheerContacten.exe
+C:\@ThomasMore\2ITF WPF\Les 5 Dapper\BeheerContacten\BeheerContacten\bin\Debug\BeheerContacten.pdb
+C:\@ThomasMore\2ITF WPF\Les 5 Dapper\BeheerContacten\BeheerContacten\bin\Debug\Dapper.dll
+C:\@ThomasMore\2ITF WPF\Les 5 Dapper\BeheerContacten\BeheerContacten\bin\Debug\Dapper.pdb
+C:\@ThomasMore\2ITF WPF\Les 5 Dapper\BeheerContacten\BeheerContacten\bin\Debug\Dapper.xml
+C:\@ThomasMore\2ITF WPF\Les 5 Dapper\BeheerContacten\BeheerContacten\obj\Debug\BeheerContacten.csprojResolveAssemblyReference.cache
+C:\@ThomasMore\2ITF WPF\Les 5 Dapper\BeheerContacten\BeheerContacten\obj\Debug\View\MainWindow.g.cs
+C:\@ThomasMore\2ITF WPF\Les 5 Dapper\BeheerContacten\BeheerContacten\obj\Debug\App.g.cs
+C:\@ThomasMore\2ITF WPF\Les 5 Dapper\BeheerContacten\BeheerContacten\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\@ThomasMore\2ITF WPF\Les 5 Dapper\BeheerContacten\BeheerContacten\obj\Debug\BeheerContacten_MarkupCompile.cache
+C:\@ThomasMore\2ITF WPF\Les 5 Dapper\BeheerContacten\BeheerContacten\obj\Debug\BeheerContacten_MarkupCompile.lref
+C:\@ThomasMore\2ITF WPF\Les 5 Dapper\BeheerContacten\BeheerContacten\obj\Debug\View\MainWindow.baml
+C:\@ThomasMore\2ITF WPF\Les 5 Dapper\BeheerContacten\BeheerContacten\obj\Debug\BeheerContacten.g.resources
+C:\@ThomasMore\2ITF WPF\Les 5 Dapper\BeheerContacten\BeheerContacten\obj\Debug\BeheerContacten.Properties.Resources.resources
+C:\@ThomasMore\2ITF WPF\Les 5 Dapper\BeheerContacten\BeheerContacten\obj\Debug\BeheerContacten.csproj.GenerateResource.Cache
+D:\Data\WPF\Les 5 Dapper.Net\BeheerContacten\BeheerContacten\bin\Debug\BeheerContacten.exe.config
+D:\Data\WPF\Les 5 Dapper.Net\BeheerContacten\BeheerContacten\obj\Debug\BeheerContacten.exe
+D:\Data\WPF\Les 5 Dapper.Net\BeheerContacten\BeheerContacten\obj\Debug\BeheerContacten.pdb
+D:\Data\WPF\Les 5 Dapper.Net\BeheerContacten - oplossing\BeheerContacten\bin\Debug\BeheerContacten.exe.config
+D:\Data\WPF\Les 5 Dapper.Net\BeheerContacten - oplossing\BeheerContacten\obj\Debug\BeheerContacten.exe
+D:\Data\WPF\Les 5 Dapper.Net\BeheerContacten - oplossing\BeheerContacten\obj\Debug\BeheerContacten.pdb
+D:\Data\WPF\Les 5 Dapper.Net\BeheerContacten - oplossing\BeheerContacten\bin\Debug\BeheerContacten.exe
+D:\Data\WPF\Les 5 Dapper.Net\BeheerContacten - oplossing\BeheerContacten\bin\Debug\BeheerContacten.pdb
+D:\Data\WPF\Les 5 Dapper.Net\BeheerContacten - oplossing\BeheerContacten\bin\Debug\Dapper.dll
+D:\Data\WPF\Les 5 Dapper.Net\BeheerContacten - oplossing\BeheerContacten\bin\Debug\Dapper.xml
+D:\Data\WPF\Les 5 Dapper.Net\BeheerContacten - oplossing\BeheerContacten\obj\Debug\BeheerContacten.csprojResolveAssemblyReference.cache
+D:\Data\WPF\Les 5 Dapper.Net\BeheerContacten - oplossing\BeheerContacten\obj\Debug\View\MainWindow.g.cs
+D:\Data\WPF\Les 5 Dapper.Net\BeheerContacten - oplossing\BeheerContacten\obj\Debug\App.g.cs
+D:\Data\WPF\Les 5 Dapper.Net\BeheerContacten - oplossing\BeheerContacten\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Data\WPF\Les 5 Dapper.Net\BeheerContacten - oplossing\BeheerContacten\obj\Debug\BeheerContacten_MarkupCompile.cache
+D:\Data\WPF\Les 5 Dapper.Net\BeheerContacten - oplossing\BeheerContacten\obj\Debug\BeheerContacten_MarkupCompile.lref
+D:\Data\WPF\Les 5 Dapper.Net\BeheerContacten - oplossing\BeheerContacten\obj\Debug\View\MainWindow.baml
+D:\Data\WPF\Les 5 Dapper.Net\BeheerContacten - oplossing\BeheerContacten\obj\Debug\BeheerContacten.g.resources
+D:\Data\WPF\Les 5 Dapper.Net\BeheerContacten - oplossing\BeheerContacten\obj\Debug\BeheerContacten.Properties.Resources.resources
+D:\Data\WPF\Les 5 Dapper.Net\BeheerContacten - oplossing\BeheerContacten\obj\Debug\BeheerContacten.csproj.GenerateResource.Cache
+D:\Data\WPF\Les 5 Dapper.Net\BeheerContacten\BeheerContacten\bin\Debug\BeheerContacten.exe
+D:\Data\WPF\Les 5 Dapper.Net\BeheerContacten\BeheerContacten\bin\Debug\BeheerContacten.pdb
+D:\Data\WPF\Les 5 Dapper.Net\BeheerContacten\BeheerContacten\obj\Debug\BeheerContacten.csprojResolveAssemblyReference.cache
+D:\Data\WPF\Les 5 Dapper.Net\BeheerContacten\BeheerContacten\obj\Debug\View\MainWindow.g.cs
+D:\Data\WPF\Les 5 Dapper.Net\BeheerContacten\BeheerContacten\obj\Debug\App.g.cs
+D:\Data\WPF\Les 5 Dapper.Net\BeheerContacten\BeheerContacten\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Data\WPF\Les 5 Dapper.Net\BeheerContacten\BeheerContacten\obj\Debug\BeheerContacten_MarkupCompile.cache
+D:\Data\WPF\Les 5 Dapper.Net\BeheerContacten\BeheerContacten\obj\Debug\BeheerContacten_MarkupCompile.lref
+D:\Data\WPF\Les 5 Dapper.Net\BeheerContacten\BeheerContacten\obj\Debug\View\MainWindow.baml
+D:\Data\WPF\Les 5 Dapper.Net\BeheerContacten\BeheerContacten\obj\Debug\BeheerContacten.g.resources
+D:\Data\WPF\Les 5 Dapper.Net\BeheerContacten\BeheerContacten\obj\Debug\BeheerContacten.Properties.Resources.resources
+D:\Data\WPF\Les 5 Dapper.Net\BeheerContacten\BeheerContacten\obj\Debug\BeheerContacten.csproj.GenerateResource.Cache
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 5 Dapper.net\BeheerContacten - start\BeheerContacten\bin\Debug\BeheerContacten.exe.config
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 5 Dapper.net\BeheerContacten - start\BeheerContacten\bin\Debug\BeheerContacten.exe
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 5 Dapper.net\BeheerContacten - start\BeheerContacten\bin\Debug\BeheerContacten.pdb
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 5 Dapper.net\BeheerContacten - start\BeheerContacten\obj\Debug\BeheerContacten.csprojResolveAssemblyReference.cache
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 5 Dapper.net\BeheerContacten - start\BeheerContacten\obj\Debug\View\MainWindow.g.cs
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 5 Dapper.net\BeheerContacten - start\BeheerContacten\obj\Debug\App.g.cs
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 5 Dapper.net\BeheerContacten - start\BeheerContacten\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 5 Dapper.net\BeheerContacten - start\BeheerContacten\obj\Debug\BeheerContacten_MarkupCompile.cache
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 5 Dapper.net\BeheerContacten - start\BeheerContacten\obj\Debug\BeheerContacten_MarkupCompile.lref
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 5 Dapper.net\BeheerContacten - start\BeheerContacten\obj\Debug\View\MainWindow.baml
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 5 Dapper.net\BeheerContacten - start\BeheerContacten\obj\Debug\BeheerContacten.g.resources
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 5 Dapper.net\BeheerContacten - start\BeheerContacten\obj\Debug\BeheerContacten.Properties.Resources.resources
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 5 Dapper.net\BeheerContacten - start\BeheerContacten\obj\Debug\BeheerContacten.csproj.GenerateResource.Cache
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 5 Dapper.net\BeheerContacten - start\BeheerContacten\obj\Debug\BeheerContacten.csproj.CoreCompileInputs.cache
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 5 Dapper.net\BeheerContacten - start\BeheerContacten\obj\Debug\BeheerContacten.exe
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 5 Dapper.net\BeheerContacten - start\BeheerContacten\obj\Debug\BeheerContacten.pdb
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 5 Dapper.net\BeheerContacten - start\BeheerContacten\bin\Debug\Dapper.dll
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 5 Dapper.net\BeheerContacten - start\BeheerContacten\bin\Debug\Dapper.xml

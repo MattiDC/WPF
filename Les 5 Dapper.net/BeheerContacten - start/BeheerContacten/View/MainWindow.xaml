@@ -1,0 +1,52 @@
+﻿<Window x:Class="BeheerContacten.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BeheerContacten"
+        xmlns:viewmodel="clr-namespace:BeheerContacten.ViewModel"
+        mc:Ignorable="d"
+        Title="Beheer contactpersonen" Height="350" Width="600">
+    
+    <Window.Resources>
+        <viewmodel:ContactPersonenViewModel x:Key="ContactPersonenViewModel"/>
+    </Window.Resources>
+
+    <Grid DataContext="{StaticResource ContactPersonenViewModel}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <ListView Grid.Column="0" 
+                  ItemsSource="{Binding Contactpersonen}" 
+                  SelectionMode="Single" 
+                  SelectedItem="{Binding CurrentContact}">
+            <ListView.View>
+                <GridView >
+                    <GridViewColumn Width="120" 
+                                    Header="Contactpersoon"  
+                                    DisplayMemberBinding="{Binding Naam}" />
+                    <GridViewColumn Width="200" 
+                                    Header="Emailadres"
+                                    DisplayMemberBinding="{Binding Email}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+        <StackPanel Grid.Row="1" Grid.Column="1">
+            <TextBox Margin="10,30,10,10" 
+                     Text="{Binding CurrentContact.Naam}" />
+            <TextBox  Margin="10,10,10,10" 
+                      Text="{Binding CurrentContact.Email}" />
+
+            <Button Margin="10,100,10,10" Content="Wijzigen"
+                    Command="{Binding WijzigenCommand}" />
+            <Button Margin="10,0,10,10" Content="Verwijderen"
+                    Command="{Binding VerwijderenCommand}" />
+            <Button Margin="10,0,10,10" Content="Toevoegen"
+                    Command="{Binding ToevoegenCommand}" />
+        </StackPanel>
+    </Grid>
+
+</Window>
