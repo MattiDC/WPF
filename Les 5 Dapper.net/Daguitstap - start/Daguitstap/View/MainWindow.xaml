@@ -1,0 +1,43 @@
+﻿<Window x:Class="Daguitstap.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Daguitstap"
+        xmlns:viewmodel="clr-namespace:Daguitstap.ViewModel"
+        mc:Ignorable="d"
+        Title="Inschrijvingen daguitstap" Height="450" Width="750">
+
+    <Window.Resources>
+        <viewmodel:LedenViewModel x:Key="LedenViewModel"/>
+    </Window.Resources>
+
+    <Grid Margin="10" DataContext="{StaticResource LedenViewModel}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Label Grid.Column="0" Content="Leden" />
+        <ListBox Grid.Column="0" Grid.Row="1" 
+                 SelectionMode="Single"  ItemsSource="{Binding Leden}" SelectedItem="{Binding CurrentLid}"/>
+
+        <Label Grid.Column="2" Content="Deelnemers" />
+        <ListBox Grid.Column="2" Grid.Row="1" 
+                 SelectionMode="Single" ItemsSource="{Binding Deelnemers}" SelectedItem="{Binding CurrentLid}"/>
+
+        <Button Grid.Column="1" Grid.Row="1" 
+                VerticalAlignment="Top"  Margin="30"
+                Content="&gt;&gt; Deelnemen" Command="{Binding InschrijvenCommand}"/>
+
+        <Button Grid.Column="1" Grid.Row="1"
+                VerticalAlignment="Top" Margin="30,60"
+                Content="&lt;&lt; Uitschrijven" Command="{Binding UitschrijvenCommand}"/>
+
+    </Grid>
+</Window>

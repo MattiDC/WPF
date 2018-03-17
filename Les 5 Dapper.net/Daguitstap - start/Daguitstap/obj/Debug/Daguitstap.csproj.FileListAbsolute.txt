@@ -1,0 +1,49 @@
+C:\@ThomasMore\2ITF WPF\Les 5 Dapper\Daguitstap\Daguitstap\bin\Debug\Daguitstap.exe.config
+C:\@ThomasMore\2ITF WPF\Les 5 Dapper\Daguitstap\Daguitstap\bin\Debug\Daguitstap.exe
+C:\@ThomasMore\2ITF WPF\Les 5 Dapper\Daguitstap\Daguitstap\bin\Debug\Daguitstap.pdb
+C:\@ThomasMore\2ITF WPF\Les 5 Dapper\Daguitstap\Daguitstap\bin\Debug\Dapper.dll
+C:\@ThomasMore\2ITF WPF\Les 5 Dapper\Daguitstap\Daguitstap\bin\Debug\Dapper.xml
+C:\@ThomasMore\2ITF WPF\Les 5 Dapper\Daguitstap\Daguitstap\obj\Debug\View\MainWindow.g.cs
+C:\@ThomasMore\2ITF WPF\Les 5 Dapper\Daguitstap\Daguitstap\obj\Debug\App.g.cs
+C:\@ThomasMore\2ITF WPF\Les 5 Dapper\Daguitstap\Daguitstap\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\@ThomasMore\2ITF WPF\Les 5 Dapper\Daguitstap\Daguitstap\obj\Debug\Daguitstap_MarkupCompile.cache
+C:\@ThomasMore\2ITF WPF\Les 5 Dapper\Daguitstap\Daguitstap\obj\Debug\Daguitstap_MarkupCompile.lref
+C:\@ThomasMore\2ITF WPF\Les 5 Dapper\Daguitstap\Daguitstap\obj\Debug\View\MainWindow.baml
+C:\@ThomasMore\2ITF WPF\Les 5 Dapper\Daguitstap\Daguitstap\obj\Debug\Daguitstap.g.resources
+C:\@ThomasMore\2ITF WPF\Les 5 Dapper\Daguitstap\Daguitstap\obj\Debug\Daguitstap.Properties.Resources.resources
+C:\@ThomasMore\2ITF WPF\Les 5 Dapper\Daguitstap\Daguitstap\obj\Debug\Daguitstap.csproj.GenerateResource.Cache
+C:\@ThomasMore\2ITF WPF\Les 5 Dapper\Daguitstap\Daguitstap\obj\Debug\Daguitstap.exe
+C:\@ThomasMore\2ITF WPF\Les 5 Dapper\Daguitstap\Daguitstap\obj\Debug\Daguitstap.pdb
+C:\@ThomasMore\2ITF WPF\Les 5 Dapper\Daguitstap\Daguitstap\obj\Debug\Daguitstap.csprojResolveAssemblyReference.cache
+D:\Data\WPF\Les 5 Dapper.Net\Daguitstap\Daguitstap\bin\Debug\Daguitstap.exe.config
+D:\Data\WPF\Les 5 Dapper.Net\Daguitstap\Daguitstap\obj\Debug\Daguitstap.exe
+D:\Data\WPF\Les 5 Dapper.Net\Daguitstap\Daguitstap\obj\Debug\Daguitstap.pdb
+D:\Data\WPF\Les 5 Dapper.Net\Daguitstap\Daguitstap\bin\Debug\Daguitstap.exe
+D:\Data\WPF\Les 5 Dapper.Net\Daguitstap\Daguitstap\bin\Debug\Daguitstap.pdb
+D:\Data\WPF\Les 5 Dapper.Net\Daguitstap\Daguitstap\obj\Debug\Daguitstap.csprojResolveAssemblyReference.cache
+D:\Data\WPF\Les 5 Dapper.Net\Daguitstap\Daguitstap\obj\Debug\View\MainWindow.g.cs
+D:\Data\WPF\Les 5 Dapper.Net\Daguitstap\Daguitstap\obj\Debug\App.g.cs
+D:\Data\WPF\Les 5 Dapper.Net\Daguitstap\Daguitstap\obj\Debug\Daguitstap_MarkupCompile.cache
+D:\Data\WPF\Les 5 Dapper.Net\Daguitstap\Daguitstap\obj\Debug\Daguitstap_MarkupCompile.lref
+D:\Data\WPF\Les 5 Dapper.Net\Daguitstap\Daguitstap\obj\Debug\View\MainWindow.baml
+D:\Data\WPF\Les 5 Dapper.Net\Daguitstap\Daguitstap\obj\Debug\Daguitstap.g.resources
+D:\Data\WPF\Les 5 Dapper.Net\Daguitstap\Daguitstap\obj\Debug\Daguitstap.Properties.Resources.resources
+D:\Data\WPF\Les 5 Dapper.Net\Daguitstap\Daguitstap\obj\Debug\Daguitstap.csproj.GenerateResource.Cache
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 5 Dapper.net\Daguitstap - start\Daguitstap\bin\Debug\Daguitstap.exe.config
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 5 Dapper.net\Daguitstap - start\Daguitstap\bin\Debug\Daguitstap.exe
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 5 Dapper.net\Daguitstap - start\Daguitstap\bin\Debug\Daguitstap.pdb
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 5 Dapper.net\Daguitstap - start\Daguitstap\bin\Debug\Dapper.dll
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 5 Dapper.net\Daguitstap - start\Daguitstap\bin\Debug\Dapper.xml
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 5 Dapper.net\Daguitstap - start\Daguitstap\obj\Debug\Daguitstap.csprojResolveAssemblyReference.cache
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 5 Dapper.net\Daguitstap - start\Daguitstap\obj\Debug\View\MainWindow.g.cs
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 5 Dapper.net\Daguitstap - start\Daguitstap\obj\Debug\App.g.cs
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 5 Dapper.net\Daguitstap - start\Daguitstap\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 5 Dapper.net\Daguitstap - start\Daguitstap\obj\Debug\Daguitstap_MarkupCompile.cache
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 5 Dapper.net\Daguitstap - start\Daguitstap\obj\Debug\Daguitstap_MarkupCompile.lref
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 5 Dapper.net\Daguitstap - start\Daguitstap\obj\Debug\View\MainWindow.baml
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 5 Dapper.net\Daguitstap - start\Daguitstap\obj\Debug\Daguitstap.g.resources
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 5 Dapper.net\Daguitstap - start\Daguitstap\obj\Debug\Daguitstap.Properties.Resources.resources
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 5 Dapper.net\Daguitstap - start\Daguitstap\obj\Debug\Daguitstap.csproj.GenerateResource.Cache
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 5 Dapper.net\Daguitstap - start\Daguitstap\obj\Debug\Daguitstap.csproj.CoreCompileInputs.cache
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 5 Dapper.net\Daguitstap - start\Daguitstap\obj\Debug\Daguitstap.exe
+C:\Users\r0669089\OneDrive - Thomas More\WPF\Les 5 Dapper.net\Daguitstap - start\Daguitstap\obj\Debug\Daguitstap.pdb
